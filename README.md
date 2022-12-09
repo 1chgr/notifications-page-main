@@ -12,13 +12,12 @@ Users should be able to:
 
 - Distinguish between "unread" and "read" notifications
 - Select "Mark all as read" to toggle the visual state of the unread notifications and set the number of unread messages to zero
-- View the optimal layout for the interface depending on their device's screen size
 - See hover and focus states for all interactive elements on the page
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/notifications-page-Adb0oQQYc5]
+- Live Site URL: [https://1chgr.github.io/notifications-page-main/]
 
 
 ### Built with
